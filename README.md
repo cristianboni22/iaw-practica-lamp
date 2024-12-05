@@ -14,3 +14,6 @@ El código utilizado en esta práctica está basado en el repositorio [crud-php-
 [2]: https://www.mysql.com
 [3]: https://github.com/chapagain/crud-php-simple
 [4]: https://github.com/chapagain
+
+
+ESTA practica es una nueva Y curiosa.
